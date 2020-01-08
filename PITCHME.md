@@ -265,7 +265,7 @@ technical
 
 ---
 
-# WASM with non-JS languages
+# WASM + non-JS
 
 Talks:
 
