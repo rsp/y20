@@ -4,7 +4,7 @@
 
 I did JS in 1996, Node.js in 2009, Deno in 2018
 
-# What I am up to in 2020?
+# What I am up to<br>in 2020?
 
 ---
 
@@ -23,7 +23,7 @@ You may know me from Stack Overflow
 
 # Questions?
 
-Slides: https://pocztarski.com/wid
+Slides: https://pocztarski.com/y20
 
 ## Rafał Pocztarski
 
