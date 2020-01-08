@@ -140,6 +140,8 @@ AssemblyScript
 
 # HTTP/3 a.k.a. H3
 
+(formerly HTTP-over-QUIC)
+
 ---
 
 # GitHub Actions
@@ -175,6 +177,35 @@ Syntactic Tail Calls (STC)
 
 ---
 
+# WASM and WASI
+
+Watch all presentations by:
+
+- Lin Clark
+- Steve Klabnik
+
+---
+
+# TC39
+
+Ecma International
+
+"We develop the JavaScript (formally, ECMAScript) specification on GitHub"
+
+[tc39.es](https://tc39.es/)
+
+---
+
+# W3C
+
+- [w3.org/community/webassembly](https://www.w3.org/community/webassembly/)
+- [webassembly.github.io/spec](https://webassembly.github.io/spec/)
+- [github.com/WebAssembly](https://github.com/WebAssembly)
+- [github.com/WebAssembly/proposals](https://github.com/WebAssembly/proposals)
+- [wasi.dev](https://wasi.dev/)
+
+---
+
 Articles
 
 <small>
@@ -187,6 +218,52 @@ Articles
 - [WebAssembly Text Format](https://webassembly.org/docs/text-format/) in WebAssembly docs
 
 </small>
+
+---
+
+Lectures
+
+<small>
+
+[From Electron, to Wasm, to Rust (Aaand Back to Electron)](https://www.youtube.com/watch?v=lLzFJenzBng) by Irina Shestak, RustConf 2019
+
+[WebAssembly for Web Developers](https://www.youtube.com/watch?v=njt-Qzw0mVY) by Surma Surma and Deepti Gandluri, Google I/O 2019
+
+[HTTP/3 - HTTP over QUIC is the next generation](https://www.youtube.com/watch?v=idViw4anA6E) by Daniel Stenberg, Full Stack Fest 2019
+
+[Bringing WebAssembly outside the web with WASI](https://www.youtube.com/watch?v=fh9WXPu0hw8) by Lin Clark, Full Stack Fest 2019
+
+[WebAssembly on the Server](https://www.youtube.com/watch?v=A9SydP1CcZU) by Zack Bloom, Cloudflare 2019
+
+---
+
+More lectures
+
+[Build the future of the web with WebAssembly and more](https://www.youtube.com/watch?v=BnYq7JapeDA), Google I/O 2018
+
+[Speed, Speed, Speed: JavaScript vs C++ vs WebAssembly](https://www.youtube.com/watch?v=uMuYaES4W3o) by Franziska Hinkelmann, CovalenceConf 2019
+
+[WebAssembly beyond the Web](https://www.youtube.com/watch?v=YhNkspvw37w) by Lin Clark and Till Schneidereit, WebAssembly Munich Meetup 2019
+(slabsze)
+
+[An Introduction to WebAssembly](https://www.youtube.com/watch?v=vChLD1VytOE) by Guy Royse, Devoxx Belgium 2019
+technical
+
+[Wasm The Future](https://www.youtube.com/watch?v=G-ThBWLxwuA) by Alex Danilo, Melbourne GDG Devfest 2018
+technical
+
+</small>
+
+---
+
+# WASM with non-JS languages
+
+Talks:
+
+- [Rust, WebAssembly, and the future of Serverless](https://www.youtube.com/watch?v=CMB6AlE1QuI) by Steve Klabnik, Full Stack Fest 2019
+- [SPA Revolution with WebAssembly and ASP.NET Blazor](https://www.youtube.com/watch?v=kTBW94GcRJY) by Rainer Stropek, TechDays Stockholm 2019
+- [WASM: Bringing Go to the Browser (and Beyond!)](https://www.youtube.com/watch?v=oVzFNktAkvA) by Gabbi Fisher, GothamGo 2019
+- [WASM matter?](https://www.youtube.com/watch?v=eJMT1aImS9Q) by Russell Keith-Magee, PyCon AU 2019)
 
 
 ---
