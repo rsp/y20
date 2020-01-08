@@ -23,6 +23,10 @@ You may know me from Stack Overflow
 
 # WASI?
 
+---
+
+# WASI?
+
 WAT?
 
 ---
