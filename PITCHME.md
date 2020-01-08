@@ -6,6 +6,7 @@ I did JS in 1996, Node.js in 2009, Deno in 2018
 
 # What I am up to<br>in 2020?
 
+RAFAŁ POCZTARSKI  -  @POCZTARSKI  -  POCZTARSKI.COM
 ---
 
 # Rafał Pocztarski
