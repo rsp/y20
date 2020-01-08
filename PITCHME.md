@@ -47,6 +47,12 @@ Solomon Hykes, founder and CTO of Docker<br>March, 2019 [on Twitter](https://twi
 
 ---
 
+# asm.js
+
+[asmjs.org](http://asmjs.org/)
+
+---
+
 # Can I use WASM
 
 [caniuse.com/wasm](https://caniuse.com/wasm)
@@ -103,12 +109,6 @@ WABT - WebAssembly Binary Toolkit
 WASM - WebAssembly Binary Format
 
 [webassembly.org](https://webassembly.org/)
-
----
-
-# asm.js
-
-[asmjs.org](http://asmjs.org/)
 
 ---
 
