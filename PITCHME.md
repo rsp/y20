@@ -130,6 +130,45 @@ AssemblyScript
 
 ---
 
+# HOT
+
+# Deno, Rust, WASM
+
+# HTTP/3 a.k.a. H3
+
+---
+
+# GitHub Actions
+
+- [github.com/features/actions](https://github.com/features/actions)
+- [help.github.com/actions](https://help.github.com/actions)
+
+Linux, macOS, Windows, ARM, containers
+
+(GitHub-hosted and self-hosted)
+
+---
+
+# Not yet
+
+Operator overloading in JS
+
+[github.com/tc39/proposal-operator-overloading](https://github.com/tc39/proposal-operator-overloading)
+
+Status: Stage 0; to be presented at the December 2019 TC39 meeting
+
+---
+
+# Maybe some day
+
+Proper Tail Calls (PTC)
+
+vs.
+
+Syntactic Tail Calls (STC)
+
+[github.com/tc39/proposal-ptc-syntax](https://github.com/tc39/proposal-ptc-syntax)
+
 ---
 
 Articles
