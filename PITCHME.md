@@ -86,7 +86,9 @@ A Bytecode Alliance project
 
 ---
 
-# [webassembly.studio](https://webassembly.studio/)
+# WebAssembly<br>Studio
+
+[webassembly.studio](https://webassembly.studio/)
 
 ---
 
