@@ -25,13 +25,13 @@ You may know me from Stack Overflow
 
 ---
 
-"If X + WASI existed in 2008, we wouldn't have needed to created Docker. That's how important it is. X on the server is the future of computing. A standardized system interface was the missing link. Let's hope WASI is up to the task!"
+"If X + WASI existed in 2008, we wouldn't have needed to created Docker. That's how important it is.<br>X on the server is the future of computing.<br>A standardized system interface was the missing link.<br>Let's hope WASI is up to the task!"
 
 Solomon Hykes, founder and CTO of Docker<br>March, 2019
 
 ---
 
-"If WASM + WASI existed in 2008, we wouldn't have needed to created Docker. That's how important it is. Webassembly on the server is the future of computing. A standardized system interface was the missing link. Let's hope WASI is up to the task!"
+"If WASM + WASI existed in 2008, we wouldn't have needed to created Docker. That's how important it is.<br>Webassembly on the server is the future of computing.<br>A standardized system interface was the missing link.<br>Let's hope WASI is up to the task!"
 
 Solomon Hykes, founder and CTO of Docker<br>March, 2019 [on Twitter](https://twitter.com/solomonstre/status/1111004913222324225)
 
