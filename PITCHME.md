@@ -52,19 +52,19 @@ Global: 88.53%, Poland: 92.81%
 Supported in:
 Edge, Firefox, Chrome, Safari, Opera, iOS Safari, Android Browser,
 Opera Mobile, Chrome for Android, Firefox for Android,
-Samsung Internet,
+Samsung Internet
 
 ---
 
-WebAssembly 1.0 has shipped in 4 major browser engines.
+WebAssembly 1.0 has shipped in<br>4 major browser engines.
 
-Chrome, Edge, Firefox, and WebKit, have reached consensus.
+Chrome, Edge, Firefox, and WebKit,<br>have reached consensus.
 
 [webassembly.org/roadmap](https://webassembly.org/roadmap/)
 
 ---
 
-[Wasmtime](https://wasmtime.dev/)
+# [Wasmtime](https://wasmtime.dev/)
 
 A small and efficient runtime for WebAssembly & WASI
 
@@ -74,8 +74,7 @@ A Bytecode Alliance project
 
 # Bytecode Alliance
 
-"[The Bytecode Alliance](https://bytecodealliance.org/)
-is an open source community dedicated to creating secure new software foundations, building on standards such as WebAssembly and WebAssembly System Interface (WASI)."
+"An open source community dedicated to creating secure new software foundations, building on standards such as WebAssembly and WebAssembly System Interface (WASI)."
 
 "We have a vision for a secure-by-default WebAssembly ecosystem for all platforms."
 
