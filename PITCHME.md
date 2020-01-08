@@ -45,11 +45,25 @@ Solomon Hykes, founder and CTO of Docker<br>March, 2019 [on Twitter](https://twi
 
 # WASM
 
+[webassembly.org](https://webassembly.org/)
+
+---
+
+# WASI
+
+[wasi.dev](https://wasi.dev/)
+
 ---
 
 # asm.js
 
 [asmjs.org](http://asmjs.org/)
+
+---
+
+# WebAssembly<br>Studio
+
+[webassembly.studio](https://webassembly.studio/)
 
 ---
 
@@ -96,19 +110,11 @@ A Bytecode Alliance project
 
 ---
 
-# WebAssembly<br>Studio
-
-[webassembly.studio](https://webassembly.studio/)
-
----
-
 WAT - WebAssembly Text Format
 
 WABT - WebAssembly Binary Toolkit
 
 WASM - WebAssembly Binary Format
-
-[webassembly.org](https://webassembly.org/)
 
 ---
 
@@ -202,7 +208,6 @@ Ecma International
 - [webassembly.github.io/spec](https://webassembly.github.io/spec/)
 - [github.com/WebAssembly](https://github.com/WebAssembly)
 - [github.com/WebAssembly/proposals](https://github.com/WebAssembly/proposals)
-- [wasi.dev](https://wasi.dev/)
 
 ---
 
