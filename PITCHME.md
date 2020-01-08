@@ -23,6 +23,8 @@ You may know me from Stack Overflow
 
 # WASI?
 
+WAT?
+
 ---
 
 "If X + WASI existed in 2008, we wouldn't have needed to created Docker. That's how important it is.<br>X on the server is the future of computing.<br>A standardized system interface was the missing link.<br>Let's hope WASI is up to the task!"
@@ -35,15 +37,9 @@ Solomon Hykes, founder and CTO of Docker<br>March, 2019
 
 Solomon Hykes, founder and CTO of Docker<br>March, 2019 [on Twitter](https://twitter.com/solomonstre/status/1111004913222324225)
 
-
-
 ---
 
-WAT?
-
----
-
-WASM?
+WASM
 
 ---
 
