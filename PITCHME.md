@@ -31,7 +31,7 @@ WAT?
 
 ---
 
-"If X + WASI existed in 2008, we wouldn't have needed to created Docker. That's how important it is.<br>X on the server is the future of computing.<br>A standardized system interface was the missing link.<br>Let's hope WASI is up to the task!"
+"If *X* + WASI existed in 2008, we wouldn't have needed to created Docker. That's how important it is.<br>*X* on the server is the future of computing.<br>A standardized system interface was the missing link.<br>Let's hope WASI is up to the task!"
 
 Solomon Hykes, founder and CTO of Docker<br>March, 2019
 
