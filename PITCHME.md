@@ -19,6 +19,36 @@ You may know me from Stack Overflow
 
 <small>(and also from Medium, Quora, etc.)</small>
 
+---
+
+WASI?
+
+---
+
+"If [...] + WASI existed in 2008, we wouldn't have needed to created Docker. That's how important it is. [...] on the server is the future of computing. A standardized system interface was the missing link. Let's hope WASI is up to the task!"
+
+- Solomon Hykes, founder and CTO of Docker
+
+---
+
+"If WASM+WASI existed in 2008, we wouldn't have needed to created Docker. That's how important it is. Webassembly on the server is the future of computing. A standardized system interface was the missing link. Let's hope WASI is up to the task!"
+
+- Solomon Hykes, founder and CTO of Docker
+[on Twitter](https://twitter.com/solomonstre/status/1111004913222324225)
+March, 2019
+
+
+---
+
+WAT?
+
+---
+
+WASM?
+
+---
+
+# `[1, 1, 1].map(parseInt)`
 
 ---
 
@@ -29,3 +59,5 @@ Slides: https://pocztarski.com/y20
 ## Rafał Pocztarski
 
 ## [pocztarski.com](https://pocztarski.com)
+
+`[1, 1, 1, 1].map(parseInt)`
