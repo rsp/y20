@@ -136,16 +136,6 @@ emcc - Emscripten Compiler Frontend (similar to gcc)
 
 ---
 
-# HOT
-
-# Deno, Rust, WASM
-
-# HTTP/3 a.k.a. H3
-
-(formerly HTTP-over-QUIC)
-
----
-
 # GitHub Actions
 
 - [github.com/features/actions](https://github.com/features/actions)
@@ -176,6 +166,10 @@ vs.
 Syntactic Tail Calls (STC)
 
 [github.com/tc39/proposal-ptc-syntax](https://github.com/tc39/proposal-ptc-syntax)
+
+---
+
+# MORE INFO
 
 ---
 
