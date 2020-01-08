@@ -120,7 +120,7 @@ emcc - Emscripten Compiler Frontend (similar to gcc)
 
 ---
 
-Emscripten
+# Emscripten
 
 [emscripten.org](https://emscripten.org/)
 
@@ -130,7 +130,7 @@ Emscripten
 
 ---
 
-AssemblyScript
+# AssemblyScript
 
 [assemblyscript.org](https://assemblyscript.org/)
 
@@ -212,12 +212,17 @@ Articles
 
 <small>
 
-- [WebAssembly Interface Types: Interoperate with All the Things!](https://hacks.mozilla.org/2019/08/webassembly-interface-types/) by Lin Clark, Mozilla Hacks, 2019
-- [Standardizing WASI: A system interface to run WebAssembly outside the web](https://hacks.mozilla.org/2019/03/standardizing-wasi-a-webassembly-system-interface/) by Lin Clark, Mozilla Hacks, 2019
-- [Announcing the Bytecode Alliance: Building a secure by default, composable future for WebAssembly](https://hacks.mozilla.org/2019/11/announcing-the-bytecode-alliance/) by Lin Clark, Mozilla Hacks, 2019
-- [Understanding WebAssembly text format](https://developer.mozilla.org/en-US/docs/WebAssembly/Understanding_the_text_format) on MDN
-- [Writing WebAssembly By Hand](https://blog.scottlogic.com/2018/04/26/webassembly-by-hand.html) by Colin Eberhardt
-- [WebAssembly Text Format](https://webassembly.org/docs/text-format/) in WebAssembly docs
+[WebAssembly Interface Types: Interoperate with All the Things!](https://hacks.mozilla.org/2019/08/webassembly-interface-types/) by Lin Clark, Mozilla Hacks, 2019
+
+[Standardizing WASI: A system interface to run WebAssembly outside the web](https://hacks.mozilla.org/2019/03/standardizing-wasi-a-webassembly-system-interface/) by Lin Clark, Mozilla Hacks, 2019
+
+[Announcing the Bytecode Alliance: Building a secure by default, composable future for WebAssembly](https://hacks.mozilla.org/2019/11/announcing-the-bytecode-alliance/) by Lin Clark, Mozilla Hacks, 2019
+
+[Understanding WebAssembly text format](https://developer.mozilla.org/en-US/docs/WebAssembly/Understanding_the_text_format) on MDN
+
+[Writing WebAssembly By Hand](https://blog.scottlogic.com/2018/04/26/webassembly-by-hand.html) by Colin Eberhardt
+
+[WebAssembly Text Format](https://webassembly.org/docs/text-format/) in WebAssembly docs
 
 </small>
 
@@ -240,6 +245,8 @@ Lectures
 ---
 
 More lectures
+
+<small>
 
 [Build the future of the web with WebAssembly and more](https://www.youtube.com/watch?v=BnYq7JapeDA), Google I/O 2018
 
