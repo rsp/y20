@@ -82,7 +82,11 @@ A Bytecode Alliance project
 
 ---
 
-[Awesome WebAssembly Runtimes](https://github.com/appcypher/awesome-wasm-runtimes)
+# [Awesome WebAssembly Runtimes](https://github.com/appcypher/awesome-wasm-runtimes)
+
+---
+
+# [webassembly.studio](https://webassembly.studio/)
 
 ---
 
@@ -96,7 +100,7 @@ WASM - WebAssembly Binary Format
 
 ---
 
-asm.js
+# asm.js
 
 [asmjs.org](http://asmjs.org/)
 
